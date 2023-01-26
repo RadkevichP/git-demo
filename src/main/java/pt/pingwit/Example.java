@@ -7,6 +7,7 @@ package pt.pingwit;
 public class Example {
 
     public static void main(String[] args) {
+        // Just a comment
         System.out.println("First test line");
         System.out.println("Test");
     }
